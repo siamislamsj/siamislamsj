@@ -77,7 +77,6 @@
 ![Snake Grid](https://raw.githubusercontent.com/siamislamsj/siamislamsj/output/grid.svg)
 
 
-### GitHub Statistics:
 
 <h2 align="center">📊 GitHub Statistics & Analysis</h2>
 
