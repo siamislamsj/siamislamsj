@@ -81,9 +81,37 @@
 | <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=siamislamsj&theme=swift&hide_border=true&include_all_commits=false&count_private=false" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siamislamsj&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /></a> |
 | ------------- | ------------- |
 
-### Repository Stats & Streak:
-| <a><img align="center" src="https://github-contributor-stats.vercel.app/api?username=siamislamsj&limit=5&theme=swift&combine_all_yearly_contributions=true&hide_border=true" /></a> | <a><img align="center" src="https://streak-stats.demolab.com/?user=siamislamsj" /></a> |
-| ------------- | ------------- |
+
+<h2 align="center">📊 GitHub Statistics & Analysis</h2>
+
+<div align="center">
+
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=siamislamsj&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"
+    alt="Siam's GitHub Stats"
+  />
+
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=siamislamsj&layout=compact&theme=github_dark&hide_border=true"
+    alt="Most Used Languages"
+  />
+
+</div>
+
+<br/>
+
+<h3 align="center">🔥 GitHub Contribution Streak</h3>
+
+<div align="center">
+
+  <img
+    src="https://streak-stats.demolab.com/?user=siamislamsj&theme=github-dark-blue&hide_border=true"
+    alt="GitHub Streak"
+  />
+
+</div>
 
 <br/>
 
