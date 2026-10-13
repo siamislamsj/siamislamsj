@@ -8,9 +8,10 @@
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm K M Siam Islam</h1></summary>
     <!--- typo --->
-    <a href="https://git.io/typing-svg">
+  
+<a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=22&pause=1000&color=F5F5F0&center=true&vCenter=true&width=850&lines=Learning+MERN+Stack+%40+Programming+Hero;Aspiring+Full-Stack+Developer;Future+Software+Engineer;Interested+in+AI%2C+Learn+Modern+Technology+%26+Playing+Cricket"
+    src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=22&duration=3000&pause=1500&color=F5F5F0&center=true&vCenter=true&width=850&lines=Learning+MERN+Stack+%40+Programming+Hero;Aspiring+Full-Stack+Developer;Future+Software+Engineer;Interested+in+AI%2C+Learn+Modern+Technology+%26+Playing+Cricket"
     alt="Typing SVG"
   />
 </a>
