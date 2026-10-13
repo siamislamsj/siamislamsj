@@ -6,7 +6,7 @@
 <!--- title --->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm K M Siam Islam</h1></summary>
+    <summary><h1 style="display: inline-block">Hello! 👋, I'm K M Siam Islam</h1></summary>
     <!--- typo --->
   
 <a href="https://git.io/typing-svg">
@@ -78,9 +78,6 @@
 
 
 ### GitHub Statistics:
-| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=siamislamsj&theme=swift&hide_border=true&include_all_commits=false&count_private=false" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siamislamsj&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /></a> |
-| ------------- | ------------- |
-
 
 <h2 align="center">📊 GitHub Statistics & Analysis</h2>
 
