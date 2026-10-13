@@ -78,13 +78,14 @@
 
 
 
+
 <h2 align="center">📊 GitHub Statistics & Analysis</h2>
 
 <div align="center">
 
   <img
     width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=siamislamsj&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"
+    src="https://github-readme-stats.vercel.app/api?username=siamislamsj&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&cache_seconds=21600&v=2"
     alt="Siam's GitHub Stats"
   />
 
